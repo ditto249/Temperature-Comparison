@@ -47,7 +47,7 @@ TemperatureReading.java
 
 ## Running the Application
 ### Requirements
--Java 8+
+- Java 8+
 - IDE (IntelliJ IDEA, Eclipse, NetBeans) or command-line compilation
 
 ### Steps
